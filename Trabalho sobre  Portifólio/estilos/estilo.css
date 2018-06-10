@@ -1,0 +1,56 @@
+body{
+	background-color: gray;
+	margin: 0;
+	
+}
+
+#Menu ul{	
+	margin: 0;
+	background-color: black;
+	list-style: none;
+	
+	}
+
+#Menu ul li{
+	display: inline;
+	text-align: center;
+	
+}
+
+#Menu ul li a{
+	padding: 10px 10px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	width: 277px;
+		
+}
+
+#Menu ul li a:hover{
+	color: blue;
+	
+}
+
+#Corpo{
+	text-align: center;
+
+}
+#Box{
+	background-color: black;
+
+}
+h1{
+	color: white;
+	padding: 50px;
+	text-align: center;
+}
+h2{
+	color:white;
+	text-align: center;
+}
+#Rodape{
+	
+	text-align: center;
+}
+
+}
